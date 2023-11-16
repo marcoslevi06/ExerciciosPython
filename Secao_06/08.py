@@ -8,3 +8,6 @@ for i in range(1, 11):
         maior = numero
     if menor is None or numero < menor:
         menor = numero
+
+print(f'Maior: {maior}')
+print(f'Menor: {menor}')
