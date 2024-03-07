@@ -1,0 +1,6 @@
+
+AEIOU
+Esse arquivo foi feito para ser lido por um humano, e não por uma máquina.
+Esse arquivo terá suas vogais substituídas por * e será salvo em um novo arquivo.
+
+ABCDE

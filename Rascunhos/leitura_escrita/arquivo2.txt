@@ -1,0 +1,4 @@
+
+Prosseguindo com o aprendizado sobre leitura ae escrita de arquivos em Python
+Conteudo aleatorio para preencher o arquivo
+testanto algo novo no arquivo

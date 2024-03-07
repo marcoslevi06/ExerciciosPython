@@ -1,0 +1,10 @@
+
+Maçã
+Banana
+Laranja
+Pera
+Uva Maçã Banana Laranja Pera
+Melancia Uva Maçã Banana Laranja Pera
+Melancia Uva Maçã Banana Laranja Pera Melão
+Melancia Uva Maçã Banana Laranja Pera Melão Abacaxi
+Melancia Uva Maçã Banana Laranja Pera Melão Abacaxi Morango

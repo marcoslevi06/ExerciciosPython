@@ -1,0 +1,20 @@
+
+
+Criando o segundo arquivo para a atividade 09
+
+isso é apenas um teste para ver se o arquivo foi criado corretamente
+
+fim do arquivo 02
+--------------- FIM DO ARQUIVO 02 ---------------
+
+
+
+Criando o primeiro arquivo para atividade 09
+
+Isso é apenas um teste para a atividade 09
+
+Estou aprendendo mais sobre leitura e escrita de arquivos em Python
+
+fim do arquivo 01
+
+------------- FIM DO ARQUIVO 01 -------------

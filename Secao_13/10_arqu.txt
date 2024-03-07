@@ -1,0 +1,10 @@
+
+
+Novo Oriente,        30000
+Crateús,             70000
+Quiterianópolis,     30000
+Tamboaril,           30000
+Ipaporanga,          30000
+Fortaleza,           1000000
+Arneiroz,            25000
+Tauá,                100000

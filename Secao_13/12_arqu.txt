@@ -1,0 +1,16 @@
+
+AA
+BBB
+
+ccc
+
+ddd
+
+Isso é uma frase de teste com acentuação e caracteres especiais como ç, ã, é, etc.
+
+Isso é uma frase de teste com espaço entre as palavras: tes te
+
+
+
+
+

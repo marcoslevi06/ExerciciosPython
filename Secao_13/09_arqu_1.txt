@@ -1,0 +1,11 @@
+
+
+Criando o primeiro arquivo para atividade 09
+
+Isso é apenas um teste para a atividade 09
+
+Estou aprendendo mais sobre leitura e escrita de arquivos em Python
+
+fim do arquivo 01
+
+------------- FIM DO ARQUIVO 01 -------------
